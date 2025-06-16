@@ -25,3 +25,6 @@ akan dilakukan **sesi tie breaker** dengan satu kali lemparan tambahan untuk men
 - Penentuan pemenang berdasarkan selisih skor terdekat dengan target
 - Tie breaker otomatis jika ada pemain dengan skor sama
 - Tampilan tabel hasil akhir lengkap dengan peringkat
+
+### Link Video:
+https://youtu.be/ADWQe2R5eHE
